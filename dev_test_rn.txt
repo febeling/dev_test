@@ -1,0 +1,35 @@
+
+Solve challenge below. If anything is unclear use your own judgment to
+make a reasonable assumption. Make sure you explain your assumption
+and reasoning behind it.
+
+
+1. Setup an application that works on Android and iOS, with a
+navigation library and an example transition.
+
+
+A. Build it (store as branch `part-1`).
+
+B. Explain the reasoning behind the decision for the nav package you
+use.
+
+
+2. Create a github project browser using their public API which allows
+filtering by tag and sorting by stars and name (spend 4 hrs. max., cut
+features if you have to).
+
+
+A. Estimate how long it will take you to complete the task.
+
+B. Build a simplified version of it (by adding to the project from
+challenge 1, as branch `part-2`).
+
+C. Write a one-page high-level description of your solution. Answer:
+   - what you've built
+   - how it's tied together
+   - your reasons for important decisions
+   - how you would go about testing it (unit and UI level)
+
+
+If you feel anything is unclear, use your own judgment to make
+assumptions (and explain them in section 2.C).
